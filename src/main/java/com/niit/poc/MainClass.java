@@ -3,6 +3,7 @@ package com.niit.poc;
 public class MainClass {
 
 	public int add(int x, int y) {
+		System.out.print("iiii");
 		return x+y;
 	}
 	public static void main(String[] args) {
@@ -11,7 +12,7 @@ public class MainClass {
 	MainClass mc = new MainClass();
 	
 	mc.add(10, 20);
-
+	System.out.print("iiii");
 	}
-System.out.println("1st modification");
+
 }
