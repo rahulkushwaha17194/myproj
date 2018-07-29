@@ -13,6 +13,7 @@ public class MainClass {
 	
 	mc.add(10, 20);
 	System.out.print("iiii");
+	System.out.print("jjjj");
 	}
 
 }
