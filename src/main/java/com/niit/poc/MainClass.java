@@ -12,6 +12,7 @@ public class MainClass {
 	MainClass mc = new MainClass();
 	
 	mc.add(10, 20);
+	System.out.println("hhhhh");
 	System.out.print("iiii");
 	}
 
